@@ -1,0 +1,28 @@
+{
+  "name": "amazeballs",
+  "version": "1.0.0",
+  "description": "Make Jira Great Again.",
+  "main": "amazeballs.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/b94c9a6e0711ec850e9e0d0a95ae018f.git"
+  },
+  "keywords": [
+    "jira",
+    "trello"
+  ],
+  "author": "Arvind Kunday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gist.github.com/b94c9a6e0711ec850e9e0d0a95ae018f"
+  },
+  "homepage": "https://gist.github.com/b94c9a6e0711ec850e9e0d0a95ae018f",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
